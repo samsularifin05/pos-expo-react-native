@@ -40,7 +40,7 @@ export const StyleHome = StyleSheet.create({
       resizeMode: "contain"
     },
     logoMenu: {
-      width: WIDTH * 0.8,
+      width: 60,
       height: 40,
       resizeMode: "contain",
       marginBottom: 10
