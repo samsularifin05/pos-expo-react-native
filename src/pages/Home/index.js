@@ -1,10 +1,8 @@
-import { Image, Text, View, ScrollView } from "react-native";
+import { View, ScrollView } from "react-native";
 import React from "react";
-import Images from "../../../images";
-import { Card, Gap } from "../../component";
+import { Card } from "../../component";
 import images from "../../../images";
 import { StyleHome } from "./style";
-import { TouchableOpacity } from "react-native-web";
 import Sidebar from "../../component/Sidebar";
 import Cart from "../Cart";
 
